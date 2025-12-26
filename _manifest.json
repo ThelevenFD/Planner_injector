@@ -1,0 +1,16 @@
+{
+  "manifest_version": 1,
+  "name": "Planner_injector",
+  "version": "1.0.0",
+  "description": "注入好感度到planner",
+  "author": {
+    "name": "elevenfd",
+    "url": "https://github.com/ThelevenFD"
+  },
+  "license": "MIT",
+
+  "homepage_url": "https://github.com/ThelevenFD/Planner_injector",
+  "repository_url": "https://github.com/ThelevenFD/Planner_injector",
+  "keywords": ["Example"],
+  "categories": ["Other"]
+}
